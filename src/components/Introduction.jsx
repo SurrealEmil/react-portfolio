@@ -11,7 +11,7 @@ const Introduction = () => {
                         <h2>Hi, I'm Emil!</h2>
                         <div className="intro-text">
                             <p>
-                                I'm a Full Stack .NET Developer
+                                I'm a Full Stack .NET Developer.
                             </p>
                         </div>
                         <ul className='intro-button'>
