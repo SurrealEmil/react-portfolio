@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card';
 
 const Projects = () => {
     const url = "https://api.github.com/users/SurrealEmil/repos";
-    const projectNames = ["AudialAtlasService", "Lab03MiniprojektAPI", "BankNyBank", "react-portfolio-site"];
+    const projectNames = ["AudialAtlasService", "Lab03MiniprojektAPI", "BankNyBank", "react-portfolio"];
 
     const [githubProjects, setGithubProjects] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
