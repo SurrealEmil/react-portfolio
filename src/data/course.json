@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "course": "Freecodecamp",
+        "program": "(New) Foundational C# with Microsoft",
+        "compliation": "Compliation, 100%",
+        "description": "FreeCodeCamp's course on C# programming, in collaboration with Microsoft, provides beginners with a comprehensive introduction to the language through hands-on coding exercises. Graduates emerge with a solid understanding of C# fundamentals, well-equipped for real-world projects."
+    }
+
+]
