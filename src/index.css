@@ -243,6 +243,7 @@
 .project-card {
   width: 18rem;
   margin: 1rem;
+  height: auto;
 }
 
 .card {
@@ -250,7 +251,6 @@
 }
 
 .card-body {
-  height: 250px;
   display: flex;
   flex-direction: column;
 }
