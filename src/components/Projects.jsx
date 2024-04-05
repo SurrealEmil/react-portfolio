@@ -12,7 +12,7 @@ const Projects = () => {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        setTimeout(() => {
+        // setTimeout(() => {
             fetch(url)
                 .then(response => response.json())
                 .then((data) => {
@@ -26,7 +26,7 @@ const Projects = () => {
                     setError('Failed to fetch projects. Please try again later.');
                     setIsLoading(false);
                 });
-        }, 3000); // Test to see that loading works
+        // }, 3000); // Test to see that loading works
     }, []);
 
     return (

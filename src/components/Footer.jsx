@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaGithub, FaLinkedin} from "react-icons/fa6";
+import Scroll from './Scroll';
 
 const Footer = () => {
   return (
@@ -19,6 +20,7 @@ const Footer = () => {
                 </li>
             </ul>
         </div>
+        <Scroll />
     </section>
   )
 }
