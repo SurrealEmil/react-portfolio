@@ -4,7 +4,7 @@ import WorkCard from './card/WorkCard.jsx'
 import CoursesCard from './card/CoursesCard.jsx'
 import EducationCard from './card/EducationCard.jsx'
 
-import ResumePDF from '../data/ResuméSwe.pdf'
+import ResumePDF from '../data/ResuméEng.pdf'
 
 const Resume = () => {
   return (
