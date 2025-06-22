@@ -15,13 +15,16 @@ const About = () => {
                     <div className="about-box">
                         <div className="about-text">
                             <p>
-                                My name is Emil, and I fell into programming from my love of video games. It started as a hobby to just make games to share between friends, but then as my hobby grew, I ended up wanting to learn more about programming and what other opportunities there were.
+                                Hi, I'm Emil, a curious and driven fullstack developer with a background in .NET and a lifelong love for games and technology.
                             </p>
                             <p>
-                                This, in turn, led me to Chas Academy, and I could not be happier. Here, I've not only expanded my understanding of programming but also my passion for it.
+                                My journey into programming began with a desire to create games to share with friends. That hobby soon grew into a full-fledged passion for development, eventually leading me to study fullstack .NET development at Chas Academy in Stockholm.
                             </p>
                             <p>
-                                I'm thrilled to be on this journey of continuous learning and growth. While my main focus is on becoming a full-stack .NET developer. I still try to find the time to learn more about game development.
+                                There, I built a strong foundation in both front-end and back-end technologies through hands-on projects and real-world collaboration.
+                            </p>
+                            <p>
+                                While I'm focused on becoming a professional fullstack developer, I still enjoy learning about game development whenever I can. I'm excited to keep growing and contribute to projects that blend creativity, technology, and purpose.
                             </p>
                         </div>
                     </div>

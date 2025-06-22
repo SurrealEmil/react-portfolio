@@ -31,7 +31,7 @@ const Projects = () => {
 
     return (
         <section id="projects" className='projects-info'>
-            <h2>My Projects</h2>
+            <h2>School Projects</h2>
             {isLoading ? (
                 <div className='loading-projects'>
                     <SyncLoader color="#36d7b7" />

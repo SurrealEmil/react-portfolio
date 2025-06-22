@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "work": "Krysset",
-        "role": "Restaurangbiträde",
-        "duration": "2019 - 2022",
-        "description": "Fastfood employee, that had my fingers in a little bit of everything as this was under covid and we were understaffed"
+        "work": "Active Solution",
+        "role": "LIA (Internship)",
+        "duration": "2024 - 2025",
+        "description": "As part of a small team consisting of just me and another intern, I helped design and develop a Pong-inspired game from the ground up. Built specifically for trade fairs and events, the game runs entirely in the web browser and lets players control paddles using Nintendo Joy-Cons via WebHID, transforming the classic game into something new and engaging. We handled everything from concept and design to development and testing, iterating regularly to fine-tune the game for live play."
     }
 ]
